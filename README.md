@@ -4,7 +4,7 @@
 - This is a serious project account where I will post various large projects  
   
 
-- account for small and medium projects click here -> [@Antonino0704](https://github.com/Antonino0704/))  
+- account for small and medium projects click here -> [@Antonino0704](https://github.com/Antonino0704/)
   
 
 <br/>  
