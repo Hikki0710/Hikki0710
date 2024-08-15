@@ -51,7 +51,11 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=black" alt="Linux" /></a>  
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Postman-orange?logo=Postman&logoColor=white" alt="postman" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white" alt="Git" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white" alt="GitHub" /></a>   
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white" alt="GitHub" /></a>  
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" alt="npm" /></a>   
+  <a href="https://maven.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Maven-11335b?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAzFBMVEVHcExwLIZpK4PIIDjJIDfXQS85KGyRHVP1lSKPL27odCbJIjflbSiZI2S5IEeGJnWpIFewIE6rIFWrIFMqJmPQNDPEIDvKJDfLIDb0kSPFIDvxjCPeWSvFIDvJIDe/IEDfWSvfWyvXQC+0IEx+KHyFJnaDJneBJ3m8IETOKTTjainoeSf0lSPndCfLIDbeWCzjaSl+KHuKJXN6KX27IER/KHu2IEmbImWGJnV/KHvKIDazIEy/IEDOJjTaSy7hYCrqeyaJJXPpeCbdVSxkhj7EAAAAOnRSTlMANkom8usWBP0MG8P5Ht7M96m24UdcpDeviP5xPpjl+NzOwUgkqbfgk/Jx5ufdiKnelGOdyo72UWrsTLVmUAAAANZJREFUKJF90VeTgjAUhuGAwQRFql13FcGuW3TXkgSw/P//5Dhe+oVzmWfeM5mEkLfpcV57P33NgHPe09jwsuF8gK3246wvN83a7yJ2nC22Vh6Pi2IFjVnWJL/HNsSvbGLl1hBahdJ6li07ED9E/VOILkPWobQrBK3gUD3DNgxtd9RW/X4Lhol0/5Qa4a2BDA5SLaCxKAqldBsQG34YST+Blp6uoR8c8cux2dzzpjtoxP6fna9TbMTw9vNffBvCbDPVZM+1pt6IYZSgWdUba5aE1VJEv/gAhbgShVrVkEQAAAAASUVORK5CYII=" alt="maven" /></a>
+<a href="https://prettier.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Prettier-1a2b34?logo=prettier" alt="prettier" /></a>   
+<a href="https://eslint.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Eslint-4b32c3?logo=Eslint" alt="eslint" /></a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Bash-black?logo=gnubash&logoColor=white" alt="gnubash" /></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Raspberry%20PI-b31543?logo=raspberrypi" alt="Raspberry Pi" /></a> 
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Arduino-7adfe9?logo=Arduino&logoColor=white" alt="Arduino" /></a>  
@@ -67,3 +71,4 @@
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-MySQL-white?logo=MySQL" alt="MySQL" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-MariaDB-c4745c?logo=MariaDB" alt="Maria DB" /></a>  
+<a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-SQLite-darkblue?logo=SQLite" alt="SQLite" /></a> 
