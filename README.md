@@ -1,10 +1,8 @@
 ### <div align="center">I'm Antonino, an university student of computer science</div>  
   
 
-- This is an account for serious projects where I will post various large projects 
+- This is my second account -> [Main](https://github.com/Antonino0704/) account
   
-
-- account for small and medium projects click here -> [@Antonino0704](https://github.com/Antonino0704/)
   
 
 <br/>  
